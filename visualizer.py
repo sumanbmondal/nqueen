@@ -3,7 +3,7 @@ pygame.display.set_caption('N-Queen Visualizer')
 
 
 # number of queens
-N = 6
+N = 4
 
 #font
 # font = pygame.font.SysFont("serif", 32*N//8)
